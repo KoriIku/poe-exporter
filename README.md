@@ -2,6 +2,8 @@
 
 A browser userscript to export chat conversations from poe.com. Supports both Markdown and plain text formats.
 
+Export or Save Chats from poe.com AI.
+
 ## Features
 
 - Export complete chat histories
