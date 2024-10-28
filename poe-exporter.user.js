@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         Poe Chat Exporter
 // @name:zh-CN   Poe 聊天记录导出工具
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/KoriIku/poe-exporter
 // @version      0.3
-// @description  Export chat conversations from poe.com to text format
-// @description:zh-CN  导出 poe.com 的聊天记录为文本格式
-// @author       Your name
+// @description  Export chat conversations from poe.com to text format, supports Markdown and plain text
+// @description:zh-CN  导出 poe.com 的聊天记录为文本格式，支持 Markdown 和纯文本
+// @author       KoriIku
+// @homepage     https://github.com/KoriIku/poe-exporter
+// @supportURL   https://github.com/KoriIku/poe-exporter/issues
+// @updateURL    https://github.com/KoriIku/poe-exporter/raw/main/poe-exporter.user.js
+// @downloadURL  https://github.com/KoriIku/poe-exporter/raw/main/poe-exporter.user.js
 // @match        https://poe.com/*
 // @grant        none
 // @require      https://unpkg.com/turndown/dist/turndown.js
