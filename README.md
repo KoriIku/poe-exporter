@@ -17,7 +17,7 @@ A browser userscript to export chat conversations from poe.com. Supports both Ma
    - Chrome/Edge: [Tampermonkey](https://www.tampermonkey.net/)
    - Firefox: [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
-2. [Click here to install the script](link-to-your-script.user.js)
+2. [Click here to install the script](https://github.com/KoriIku/poe-exporter/raw/refs/heads/main/poe-exporter.user.js)
 
 ## Usage
 
@@ -28,6 +28,10 @@ A browser userscript to export chat conversations from poe.com. Supports both Ma
    - Toggle between Markdown/plain text
    - Copy the content
    - Download as text file
+
+## Repository
+
+Visit the [GitHub repository](https://github.com/KoriIku/poe-exporter/tree/main) for more information.
 
 ## License
 
